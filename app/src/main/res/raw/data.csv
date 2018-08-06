@@ -1,0 +1,24 @@
+Question_ID,Question_Text,Expected_Reply
+1,What is an eWallet?,E-wallet is a type of electronic card which is used for transactions made online through a computer or a smartphone.
+2,What is blockchain technology?,A global network of computers uses blockchain technology to jointly manage the database that records Bitcoin transactions.
+3,What is a sidechain?,Sidechain is a blockchain that runs in parallel to the main blockchain which extends functionality through interoperable blockchain networks allowing a decentralized way of transferring/synchronizing your tokens between the two chains. 
+4,What is a cryptocurrency token?,A Token is a tokenized data relating to transactions that can be sent across the internet without jeopardizing sensitive data.
+5,How will criminals take advantage of blockchain technology?,"Criminals are finding ways to exploit the distributed ledgers, or blockchains, used by crypto-currencies to record transactions and provide proof of work for miners. "
+6,What is cryptocurrency mining?,Cryptocurrency mining is a process in which transactions for various forms of cryptocurrency are verified and added to the blockchain digital ledger.
+7,How are intellegence agencies using blockchain?,"Several agencies are interested in the potential application of blockchain technology, especially the GSA, DOD, and Intelligence Community, but it is also true that very, very few individuals among the hundreds of thousands of federal employees actually have any idea what those applications might be or how to turn using them into a reality."
+8,Who deveoples blockchain algorithms?,Blockchain was invented by Satoshi Nakamoto in 2008 to serve as the public transaction ledger of the cryptocurrency bitcoin. 
+9,What does P2P stand for?,P2P stands for Peer to Peer
+10,What is a node?,A computer on the blockchain network
+11,Who created bitcoin?,Blockchain was invented by Satoshi Nakamoto in 2008 to serve as the public transaction ledger of the cryptocurrency bitcoin. 
+12,Where do you store a cryptocurrency?,Cryptocurrencies are stored in an ewallet
+13,Where is the least safe place to store you cryptocurrency?,On an exchange
+14,What is a miner?,"Cryptocurrency mining, or cryptomining, is a process in which transactions for various forms of cryptocurrency are verified and added to the blockchain digital ledger."
+15,What are the different types of ICO tokens?,"Equity Tokens, Securities Tokens, Utility Tokens."
+16,Where can you buy cryptocurrency?,Exchanges are where you buy and sell cryptocurrencies
+17,What is a blockchain?,A distributated ledger on a peer to perr network
+18,What is an exchange?,Cryptocurrency exchanges are online platforms where you can exchange one cryptocurrency for another cryptocurrency
+19,What is an ICO?,An Initial Coin Offering is a fundraising mechanism in which new projects sell their underlying crypto tokens in exchange for bitcoin and ether.
+20,What is an Equity token?,"Equity tokens are a subcategory of security tokens that represent ownership of an asset, such as debt or company stock."
+21,What is a Security token?,"A security token derives its value from an external, tradable asset, similar to a stock."
+22,What is a Utility token?,"Utility tokens, often called app coins or user tokens, provide users with future access to a product or service."
+23,That is a smart contract?,"Smart contracts help you exchange money, property, shares, or anything of value in a transparent, conflict-free way while avoiding the services of a middleman."
